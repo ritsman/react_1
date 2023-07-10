@@ -11,8 +11,8 @@ import {
 import "semantic-ui-css/semantic.min.css";
 import { Outlet } from "react-router-dom";
 import MenuBar from "./MenuBar";
-import TableEx from "./Table";
-import Ajx from "./Ajx";
+// import TableEx from "./Table";
+// import Ajx from "./Ajx";
 import TableWithAjx from "./TableWithAjx";
 import TableWithAjxPage from "./TableWithAjxPage";
 import img_lion from "./img88/lionking.png";
