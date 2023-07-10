@@ -1,4 +1,7 @@
-{
+
+  {
+    "json.schemaDownload.enable": true,
+ 
   "name": "grid",
   "version": "0.1.0",
   "private": true,
@@ -13,6 +16,9 @@
     "semantic-ui-react": "2.1.4",
     "semantic-ui-css": "2.5.0",
     "react-router-dom":"6.14.1"
+  },
+  "devDependencies": {
+    "babel-preset-react-app":"@babel/plugin-proposal-private-property-in-object"
   },
   "scripts": {
     "start": "react-scripts start",
